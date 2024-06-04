@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_logo">App Logo</string>
+    <string name="app_name">Calificador</string>
+    <string name="course_image">Imagen Curso</string>
+    <string name="course_name">Nombre del Curso</string>
+    <string name="course_description">Descripcion del curso</string>
+</resources>
